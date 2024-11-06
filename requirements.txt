@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+yfinance==0.2.44
+newsapi-python
+matplotlib
+plotly
+python-dotenv
+openai
+requests
+beautifulsoup4
+seaborn
+nltk
